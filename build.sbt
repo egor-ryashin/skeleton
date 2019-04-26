@@ -1,6 +1,5 @@
 organization := "com.github.fractal"
 name := "skeleton"
-version := "1.6"
 
 scalaVersion := "2.12.8"
 // Compiler settings. Use scalac -X for other options and their description.
