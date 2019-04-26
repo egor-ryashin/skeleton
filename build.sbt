@@ -14,6 +14,5 @@ libraryDependencies ++= Seq(
   "org.scalacheck" %% "scalacheck" % "1.14.0" % "test"
 )
 
-addSbtPlugin("com.github.gseitz" % "sbt-release" % "1.0.11")
 
 // For Settings/Task reference, see http://www.scala-sbt.org/release/sxr/sbt/Keys.scala.html
